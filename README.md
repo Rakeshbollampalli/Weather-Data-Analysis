@@ -1,6 +1,7 @@
 # Weather-Data-Analysis
 ..
 This project analyzes weather data using Python, pandas, and matplotlib.
+The Weather Data Analysis Using Python project is a comprehensive exploration of historical weather data aimed at uncovering trends, patterns, and insights. The project leverages Python's data analysis and visualization capabilities to analyze weather parameters such as temperature, precipitation, humidity, and wind speed over time.
 
 ## Features
 - Visualizes temperature and rainfall trends.
